@@ -29,7 +29,7 @@ for key in range(1,26):
 	os.system('clear')
 	newFile.seek(0)
 	text = str()
-
+####
 
 
 
